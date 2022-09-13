@@ -4,7 +4,7 @@ This project is focused on creating a fully featured Online Forum for users that
 
 The project is designed to be robust and follow best use insdustry standards in the development process.
 
-This repository is the Front End of the website, it leverages React, Redux-toolkit & Tailwindcss.
+This repository is the Front End of the website, it leverages React, Redux-toolkit, TypeScript & Tailwindcss.
 
 For the backend, this api is being called: <https://launchup-prisma.herokuapp.com/>
 
