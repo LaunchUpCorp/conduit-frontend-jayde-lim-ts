@@ -1,8 +1,10 @@
-import React from 'react'
-import './App.css'
+import React from 'react';
+import SignInPage from './pages/SignInPage';
 
-function App() {
-    return <h1 className='text-3xl font-bold underline'>Hello world!</h1>
+const App: React.FC = () => {
+  return (
+    <SignInPage />
+  )
 }
 
-export default App
+export default App;
